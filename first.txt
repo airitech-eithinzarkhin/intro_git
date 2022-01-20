@@ -3,3 +3,4 @@ Gitの練習をしておきます。
 変更しました。
 Hello world.
 .git rm
+.git diff

@@ -2,3 +2,4 @@ Gitの練習をしておきます。
 追加しました。
 変更しました。
 Hello world.
+.git rm
